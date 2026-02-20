@@ -4,7 +4,7 @@ public class Java {
 
 		public static void main(String[] args) {
 	        Scanner input=new Scanner(System.in);
-	        
+	        System.out.println("STATING THE PROGRAM:");
 	        //get three inputs
 	        System.out.print("Enter input1: ");
 	        int num1=input.nextInt();
